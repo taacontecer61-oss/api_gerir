@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1792834444066,
+      "tag": "0000_wise_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1792840800000,
+      "tag": "0001_article_body_mediumtext",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1792900000000,
+      "tag": "0002_editorial_ops_live",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1792928000000,
+      "tag": "0003_article_fields_gap",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1793000000000,
+      "tag": "0004_user_authorship",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1793100000000,
+      "tag": "0005_backfill_author_users",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1793200000000,
+      "tag": "0006_editorial_homepage_slots",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1793300000000,
+      "tag": "0007_page_view_countries",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1793400000000,
+      "tag": "0008_public_list_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1793500000000,
+      "tag": "0009_search_and_password_reset",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1793600000000,
+      "tag": "0010_cookie_consent",
+      "breakpoints": true
+    }
+  ]
+}
